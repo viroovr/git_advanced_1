@@ -11,7 +11,7 @@ def even_list(int_list: List[int]) -> List[int]:
 	# TODO: Implement even_list
 	ret = list()
 	for i in int_list:
-		if(i % 2==0)
+		if(i % 2==0):
 			ret.append(i)
 	return ret
 # Skeleton code for sum_of_squares_of_even
